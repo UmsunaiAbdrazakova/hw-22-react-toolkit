@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/hw-22-react-toolkit/static/css/main.5e41044a.css",
+    "main.js": "/hw-22-react-toolkit/static/js/main.846a99fe.js",
+    "index.html": "/hw-22-react-toolkit/index.html",
+    "main.5e41044a.css.map": "/hw-22-react-toolkit/static/css/main.5e41044a.css.map",
+    "main.846a99fe.js.map": "/hw-22-react-toolkit/static/js/main.846a99fe.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5e41044a.css",
+    "static/js/main.846a99fe.js"
+  ]
+}
